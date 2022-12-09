@@ -14,17 +14,17 @@ $ git clone https://github.com/EvertonDev2002/LAB-TR11.git
 
 ## Gerar biblioteca
 ```
-$ gcc -c TR4_535770.c
+$ gcc -c TR4_537858.c
 ```
 
 ## Compilação
 Linux
 ```
-$ gcc TR4_535770.o main.c -o run
+$ gcc TR4_537858.o main.c -o run
 ```
 Windows
 ```
-$ gcc TR4_535770.o main.c -o run.exe
+$ gcc TR4_537858.o main.c -o run.exe
 ```
 
 ## Execução
